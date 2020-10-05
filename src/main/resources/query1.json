@@ -1,0 +1,16 @@
+{
+  "description": "Deposit Query",
+  "name": "Deposit",
+  "statement": {
+    "from": [
+      "\"vehicle_csv\""
+    ],
+    "selectAttrs": [
+      "\"vehicle_csv\".\"veh_no\"",
+      "\"vehicle_csv\".\"p_crash1\"",
+      "\"vehicle_csv\".\"p_crash2\"",
+      "\"vehicle_csv\".\"p_crash3\"",
+      "\"vehicle_csv\".\"systemdate\""
+    ]
+  }
+}

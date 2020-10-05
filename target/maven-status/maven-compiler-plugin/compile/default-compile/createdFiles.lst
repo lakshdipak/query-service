@@ -1,0 +1,7 @@
+com/demo/query/HelloController.class
+com/demo/query/service/DepositQueryGenerator.class
+com/demo/query/generator/QueryType.class
+com/demo/query/generator/QueryGenerator.class
+com/demo/query/AppConfig.class
+com/demo/query/generator/QueryGeneratorFactory.class
+com/demo/query/App.class

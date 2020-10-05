@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.demo.query.HelloControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.004 s <<< FAILURE! - in com.demo.query.HelloControllerTest
+initializationError  Time elapsed: 0.002 s  <<< ERROR!
+org.junit.runners.model.InvalidTestClassError: 
+Invalid test class 'com.demo.query.HelloControllerTest':
+  1. No runnable methods
+
